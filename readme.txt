@@ -1,1 +1,1 @@
-oread 1
+oread dev1
