@@ -1,1 +1,1 @@
-read 1
+oread 1
